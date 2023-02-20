@@ -11,6 +11,6 @@ public class A {
         int b=1;
     }
     public void a(){
-        System.out.println("zx");
+        System.out.println("zx111111111111111");
     }
 }
