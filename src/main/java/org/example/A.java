@@ -13,4 +13,7 @@ public class A {
     public  void a(){
         System.out.println("q");
     }
+    public void a(){
+        System.out.println("zx");
+    }
 }
