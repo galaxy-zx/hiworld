@@ -11,7 +11,14 @@ public class A {
         int b=1;
     }
 
-    public void a(){
+    public void a() {
+
+    }
+
+
+    public void b(){
+        System.out.println("aaaaa");
+    }
     public void c(){
         System.out.println("zx111111111111111");
     }
