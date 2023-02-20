@@ -22,4 +22,7 @@ public class A {
     public void c(){
         System.out.println("zx111111111111111");
     }
+    public void d(){
+         System.out.println("zx111111111111111");
+    }
 }
