@@ -10,10 +10,9 @@ public class A {
         List<Integer> list=new ArrayList<>();
         int b=1;
     }
-    public  void a(){
-        System.out.println("q");
-    }
+
     public void a(){
+    public void c(){
         System.out.println("zx111111111111111");
     }
 }
