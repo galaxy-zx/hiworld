@@ -5,5 +5,6 @@ public class A {
         System.out.println("ddd");
         int a=1;
         List<Integer> list=new ArrayList<>();
+        int b=1;
     }
 }
