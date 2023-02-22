@@ -23,6 +23,9 @@ public class A {
         System.out.println("zx111111111111111");
     }
     public void d(){
-         System.out.println("zx111111111111111");
+         System.out.println("zxhelloworld1");
     }
+    public String zx(){
+        System.out.println("aa);
+        return "a";
 }
