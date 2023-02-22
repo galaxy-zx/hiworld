@@ -18,6 +18,10 @@ public class A {
            System.out.println(1);
 
     }
+    public void f() {
+           System.out.println(1);
+
+    }
 
 
 }
