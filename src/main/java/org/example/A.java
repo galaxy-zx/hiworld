@@ -11,11 +11,14 @@ public class A {
         int b=1;
     }
 
-    public void a() {
+    public void c() {
 
     }
        public void b() {
-           System.out.println(1);
+           System.out.println(222);
+
+    }
+    public void d() {
 
     }
 
