@@ -14,17 +14,10 @@ public class A {
     public void a() {
 
     }
+       public void b() {
+           System.out.println(1);
+
+    }
 
 
-    public void w(){
-        System.out.println("aaaaa");
-    }
-    public void c(){
-        System.out.println("zx111111111111111");
-        System.out.println("hhaha");
-    }
-    public String zx(){
-        System.out.println("aa");
-        return "qq";
-    }
 }
