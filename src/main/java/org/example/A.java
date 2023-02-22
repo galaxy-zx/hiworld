@@ -15,6 +15,8 @@ public class A {
 
     }
 
-
+     public void e() {
+System.out.println("远程修改方法")
+    }
 
 }
