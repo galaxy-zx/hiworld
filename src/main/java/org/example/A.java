@@ -5,7 +5,8 @@ import java.util.List;
 
 public class A {
     public static void main(String[] args) {
-        System.out.println("ddd");
+        int a=1;
+        System.out.println("ddd"+a);
     }
 
     public void c() {
